@@ -13,7 +13,7 @@
 
     <!-- Se termina de cargar los estilos css de la página -->
 
-    <title>My aplicación en php</title>
+    <title>Mi aplicación en php</title>
 </head>
 <body>
     <?php
